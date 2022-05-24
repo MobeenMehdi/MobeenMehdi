@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MobeenMehdi
-- 👀 I’m interested in  Data Science / Data Engineer 
-- 🌱 I’m currently learning Data Pipelines 
-- 💞️ I’m looking to collaborate on BI
+- 👀 I’m Working as a Data Engineer for 1 year
+- 🏆 I'm AWS Data Analysis Certified  
+- 🌱 I have keen intrest in azure and AWS side projects 
+- 💞️ I’m looking to BIG Data Projects 
 - 📫 How to reach me mobeenmehdi@outlook.com
 
 <!---
